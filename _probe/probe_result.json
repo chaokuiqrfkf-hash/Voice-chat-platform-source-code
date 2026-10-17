@@ -1,0 +1,38 @@
+{
+  "js_assets": [],
+  "chunks": [],
+  "css_urls": [],
+  "absolute_urls": [
+    "https://aomediacodec.github.io/av1-rtp-spec/#dependency-descriptor-rtp-header-extension"
+  ],
+  "api_paths": [
+    "/api/admin/email",
+    "/api/admin/email/test",
+    "/api/admin/overview",
+    "/api/admin/room-types",
+    "/api/auth/captcha",
+    "/api/auth/login",
+    "/api/auth/logout",
+    "/api/auth/register",
+    "/api/auth/register/code",
+    "/api/auth/session",
+    "/api/me",
+    "/api/me/avatar",
+    "/api/me/password",
+    "/api/room-types",
+    "/api/rooms"
+  ],
+  "routes": [],
+  "fingerprints": {
+    "Vue3 createApp": false,
+    "Vue runtime": false,
+    "React": false,
+    "Vue Router": false,
+    "Pinia": false,
+    "Vuex": false,
+    "Vite build": false,
+    "Element Plus": true,
+    "Axios": false,
+    "WebSocket": true
+  }
+}
